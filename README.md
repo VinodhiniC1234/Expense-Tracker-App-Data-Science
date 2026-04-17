@@ -56,8 +56,9 @@ Tools:
 - Real-world problem-solving using data science
 - Experience in building GitHub projects
 
----
-📂 Project Structure
+## 📂 Project Structure
+
+```
 Expense-Tracker-App/
 │
 ├── data/              # Dataset files
@@ -68,7 +69,7 @@ Expense-Tracker-App/
 ├── main.py            # Main execution file
 ├── requirements.txt   # Dependencies
 └── README.md          # Project documentation
----
+```
 
 # 🔮 Future Improvements
 - Develop a mobile application version
