@@ -57,17 +57,18 @@ Tools:
 - Experience in building GitHub projects
 
 ---
-
 # 📂 Project Structure
+
 Expense-Tracker-App/
 │
-├── data/              # Dataset files
-├── src/               # Source code
-├── outputs/           # Generated charts
-├── images/            # Screenshots
-├── main.py            # Main program
-├── requirements.txt   # Dependencies
-└── README.md          # Documentation
+├── data/              # Contains dataset files (CSV - expense records)
+├── notebooks/         # Jupyter notebooks for analysis and experiments
+├── src/               # Python source code files
+├── outputs/           # Generated charts and visualizations
+├── images/            # Screenshots for README and documentation
+├── main.py            # Main Python file to run the project
+├── requirements.txt   # List of required Python libraries
+└── README.md          # Project documentation
 
 ---
 
