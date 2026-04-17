@@ -62,15 +62,14 @@ Tools:
 ---
 Expense-Tracker-App/
 │
-├── data/                # Contains dataset files (CSV - expense records)
-├── notebooks/           # Jupyter notebooks for analysis and experiments
-├── src/                 # Python source code files
-├── outputs/             # Generated charts and visualizations
-├── images/              # Screenshots for README and documentation
-│
-├── main.py              # Main Python file to run the project
-├── requirements.txt     # List of required Python libraries
-└── README.md            # Project documentation
+├── data/              # Contains dataset files (CSV - expense records)
+├── notebooks/         # Jupyter notebooks for analysis and experiments
+├── src/               # Python source code files
+├── outputs/           # Generated charts and visualizations
+├── images/            # Screenshots for README and documentation
+├── main.py            # Main Python file to run the project
+├── requirements.txt   # List of required Python libraries
+└── README.md          # Project documentation
 ---
 
 # 🔮 Future Improvements
