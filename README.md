@@ -59,6 +59,7 @@ Tools:
 ---
 # 📂 Project Structure
 
+---
 Expense-Tracker-App/
 │
 ├── data/              # Contains dataset files (CSV - expense records)
