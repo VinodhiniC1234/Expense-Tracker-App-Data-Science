@@ -63,14 +63,14 @@ Tools:
 ---
 Expense-Tracker-App/
 │
-├── data/              # Stores dataset
-├── notebooks/         # Jupyter notebooks
+├── data/              # Dataset files
+├── notebooks/         # Jupyter notebooks (optional)
 ├── src/               # Source code files
 ├── outputs/           # Generated charts
-├── images/            # Screenshots
-├── main.py            # Main program
+├── images/            # Screenshots for README
+├── main.py            # Main execution file
 ├── requirements.txt   # Dependencies
-└── README.md          # Documentation
+└── README.md          # Project documentation
 ---
 
 ---
