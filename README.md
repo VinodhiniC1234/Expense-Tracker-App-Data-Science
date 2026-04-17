@@ -62,7 +62,6 @@ Tools:
 Expense-Tracker-App/
 │
 ├── data/              # Dataset files
-├── notebooks/         # Jupyter notebooks
 ├── src/               # Source code
 ├── outputs/           # Generated charts
 ├── images/            # Screenshots
