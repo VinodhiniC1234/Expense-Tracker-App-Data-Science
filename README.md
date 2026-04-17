@@ -57,6 +57,7 @@ Tools:
 - Experience in building GitHub projects
   
 ---
+
 # 📂 Project Structure
 
 ---
